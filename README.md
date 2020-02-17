@@ -1,2 +1,2 @@
 # ML_LAB
-ML_LAB for course IE_406
+course IE_406
