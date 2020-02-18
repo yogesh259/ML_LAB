@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+#ploting the data
 theta=np.arange(-10,10,0.1)
 y=np.square(theta)
 plt.plot(theta,y)
